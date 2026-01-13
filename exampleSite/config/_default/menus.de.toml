@@ -1,1 +1,94 @@
+############################
+# HAUPTMENÜ (HEADER)
+############################
+
+[[main]]
+name = "Startseite"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Über uns"
+url = "/about/"
+weight = 2
+
+[[main]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+
+[[main]]
+name = "Kategorien"
+url = "/categories/"
+weight = 4
+
+[[main]]
+name = "Schlagwörter"
+url = "/tags/"
+weight = 5
+
+[[main]]
+name = "Autoren"
+url = "/authors/"
+weight = 6
+
+[[main]]
+name = "Kontakt"
+url = "/contact/"
+weight = 7
+
+
+############################
+# FOOTER – SPALTE 1
+############################
+
+[[footer]]
+name = "Startseite"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Über uns"
+url = "/about/"
+weight = 2
+
+[[footer]]
+name = "Kontakt"
+url = "/contact/"
+weight = 3
+
+
+############################
+# FOOTER – SPALTE 2
+############################
+
+[[footer]]
+name = "Blog"
+url = "/blog/"
+weight = 4
+
+[[footer]]
+name = "Kategorien"
+url = "/categories/"
+weight = 5
+
+[[footer]]
+name = "Schlagwörter"
+url = "/tags/"
+weight = 6
+
+
+############################
+# FOOTER – SPALTE 3 (RECHTLICHES)
+############################
+
+[[footer]]
+name = "Impressum"
+url = "/impressum/"
+weight = 7
+
+[[footer]]
+name = "Datenschutz"
+url = "/datenschutz/"
+weight
 
